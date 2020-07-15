@@ -1,2 +1,2 @@
 # Pipelines
-Pipelines for various machine learning tasks
+Pipelines for various deep learning tasks
